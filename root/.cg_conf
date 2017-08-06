@@ -1,0 +1,1 @@
+{"id":"java","ext":"java","version":"JDK 1.7.0","compile":"javac TestProjectForUpload.java","execute":"java -Xmx128M -Xms16M TestProjectForUpload","preview":"","command":"","file":"/home/cg/src/samples/TestProjectForUpload.java","url":"compile_java_online.php","mode":"java"}
